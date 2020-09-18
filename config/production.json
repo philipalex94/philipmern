@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://santhosh:santhosh123@mernstackproject.0tzja.mongodb.net/philip_db?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "23eef07ebcc7ef4836f5",
+  "githubSecret": "bd4649799cc29d1cbb89d0ce59dce05d0efa1536"
+}
